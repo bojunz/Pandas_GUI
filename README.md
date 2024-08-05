@@ -12,4 +12,7 @@ This project is designed to assist non-technical users in decision-making throug
 | 8         | Add registration functionality, store user credentials using pickle, and implement registration and login verification. |
 | 9         | Implement a feature to display logged-in user information on the main page.                  |
 | 10        | Introduce a dataset selection window to allow users to choose, drag, and input datasets for analysis. |
+| 11        | Add language switch functionality to toggle between English and Chinese on the main and display pages. |
+| 12        | Implement a one-click summary feature for charts to generate textual summaries of different chart types. |
+
 
