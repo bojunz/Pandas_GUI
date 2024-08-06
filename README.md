@@ -17,5 +17,7 @@ This project is designed to assist non-technical users in decision-making throug
 | 10        | Introduce a dataset selection window to allow users to choose, drag, and input datasets for analysis. |
 | 11        | Add language switch functionality to toggle between English and Chinese on the main and display pages. |
 | 12        | Implement a one-click summary feature for charts to generate textual summaries of different chart types. |
-
+# Demo
+## Login window
+![Shanshui GIF](https://github.com/bojunz/Pandas_GUI/blob/main/Demo_Login_page.gif)
 
