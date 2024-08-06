@@ -19,22 +19,24 @@ This project is designed to assist non-technical users in decision-making throug
 | 12        | Implement a one-click summary feature for charts to generate textual summaries of different chart types. |
 # Demo
 ## Login window
-<div style="display: flex; align-items: flex-start; border: 1px solid black; padding: 10px; background-color: #f9f9f9;">
-    <!-- GIF on the left -->
-    <div style="flex: 1; margin-right: 10px;">
-        <img src="https://github.com/bojunz/Pandas_GUI/raw/main/shanshui.gif" alt="Shanshui GIF" style="border: 2px solid black; max-width: 100%; height: auto;">
-    </div>
 
-    <!-- Features list on the right -->
-    <div style="flex: 2;">
-        <h2>Features</h2>
-        <ul>
-            <li>Verification code function</li>
-            <li>Login verification function</li>
-            <li>Register function</li>
-            <li>Additional feature 1</li>
-            <li>Additional feature 2</li>
-        </ul>
-    </div>
+<table>
+<tr>
+<td>
+<img src="https://github.com/bojunz/Pandas_GUI/raw/main/Demo_Login_page.gif" alt="Demo Login Page GIF" style="border: 2px solid black; max-width: 100%; height: auto;">
+</td>
+<td>
+
+### Features
+
+- Verification code function
+- Login verification function
+- Register function
+- Additional feature 1
+- Additional feature 2
+
+</td>
+</tr>
+</table>
 </div>
 
