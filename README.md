@@ -32,11 +32,29 @@ This project is designed to assist non-technical users in decision-making throug
 - Verification code function
 - Login verification function
 - Register function
-- Additional feature 1
-- Additional feature 2
 
 </td>
 </tr>
 </table>
-</div>
 
+
+## Home window
+<table>
+<tr>
+<td>
+<img src="https://github.com/bojunz/Pandas_GUI/blob/main/Demo_Home_Page.gif" alt="Demo Login Page GIF" style="border: 2px solid black; max-width: 100%; height: auto;">
+</td>
+<td>
+
+### Features
+
+- File Upload Capability
+- User Authentication and Login Management
+- User Access Authorization
+- Customizable Graph Selection
+
+</td>
+</tr>
+</table>
+
+### File selection window
