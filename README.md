@@ -100,18 +100,17 @@ This project is designed to assist non-technical users in decision-making throug
 <table>
 <tr>
 <td>
-<img src="https://github.com/bojunz/Pandas_GUI/blob/main/Demo_Display_Page.png" alt="Demo Login Page GIF" style="border: 2px solid black; max-width: 100%; height: auto;">
+<img src="https://github.com/bojunz/Pandas_GUI/blob/main/Demo_Generator_Page.gif" alt="Demo Login Page GIF" style="border: 2px solid black; max-width: 100%; height: auto;">
 </td>
 <td>
 
 ### Features
 
-- Multiple Graph Types: Offers various graph formats for visualization
-- Customizable: Lets users select and customize different data items
-- Clear Comparisons: Easily compares differences between data points
-- Interactive Exploration: Allows interaction with data
-- Data Highlighting: Emphasizes key data points and trends.
-- Export Options: Provides export and sharing capabilities for graphs.
+- Automatic Summary Generation: Provides concise summaries of lengthy text documents automatically, highlighting key points and essential information
+- Contextual Understanding: Utilizes advanced natural language processing to understand and extract the most relevant information from the provided text
+- Multi-Language Support: Capable of generating summaries in multiple languages
+- Performance Metrics: Provides metrics and analytics on summary generation
+
 </td>
 </tr>
 </table>
