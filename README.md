@@ -106,8 +106,8 @@ This project is designed to assist non-technical users in decision-making throug
 
 ### Features
 
-- Automatic Summary Generation: Provides concise summaries of lengthy text documents automatically, highlighting key points and essential information
-- Contextual Understanding: Utilizes advanced natural language processing to understand and extract the most relevant information from the provided text
+- Automatic Summary Generation: Provides concise summaries of lengthy text documents automatically
+- Contextual Understanding: Understand and extract the most relevant information from the provided text
 - Multi-Language Support: Capable of generating summaries in multiple languages
 - Performance Metrics: Provides metrics and analytics on summary generation
 
