@@ -57,13 +57,46 @@ This project is designed to assist non-technical users in decision-making throug
 </tr>
 </table>
 
-### File selection window
-- File Browsing Interface: Provides an intuitive interface for navigating directories and selecting files from the system.
-- Drag and Drop Support: Enables users to drag files from their file explorer directly into the selection window for quick and easy file uploads.
-- Progress Bar: Displays a progress bar during file selection and upload processes to inform users of the current status and estimated time remaining.
-- Single and Directory Selection: Supports the selection of both individual files and entire directories, offering flexibility based on user needs.
+## File selection window
+<table>
+<tr>
+<td>
+<img src="https://github.com/bojunz/Pandas_GUI/blob/main/Demo_file_page.gif" alt="Demo Login Page GIF" style="border: 2px solid black; max-width: 100%; height: auto;">
+</td>
+<td>
 
-- ## Display window
+### Features
+
+- File Browsing Interface: Provides an intuitive interface
+- Drag and Drop Support: Enables users to drag files for quick and easy file uploads
+- Progress Bar: Displays a progress bar during file selection
+- Single and Directory Selection: Supports the selection of both individual files and entire directories
+</td>
+</tr>
+</table>
+
+
+## Display window
+<table>
+<tr>
+<td>
+<img src="https://github.com/bojunz/Pandas_GUI/blob/main/Demo_Display_Page.png" alt="Demo Login Page GIF" style="border: 2px solid black; max-width: 100%; height: auto;">
+</td>
+<td>
+
+### Features
+
+- Multiple Graph Types: Offers various graph formats for visualization
+- Customizable: Lets users select and customize different data items
+- Clear Comparisons: Easily compares differences between data points
+- Interactive Exploration: Allows interaction with data
+- Data Highlighting: Emphasizes key data points and trends.
+- Export Options: Provides export and sharing capabilities for graphs.
+</td>
+</tr>
+</table>
+
+## Text generator window
 <table>
 <tr>
 <td>
